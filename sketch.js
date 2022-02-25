@@ -75,7 +75,7 @@ function draw() {
        knight.destroy();
 
        textSize(50);
-       text("Game Over!", 220,200);
+       text("Game Over!", 200,200);
        
    
     }
